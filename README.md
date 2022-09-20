@@ -1,4 +1,17 @@
-### Hi there 👋
+#### Hi there, I am Katrin a full stack developer in training
+
+#### 🌱  I’m currently learning Javascript and React.
+
+
+#### Connect with me via [LinkedIn](https://www.linkedin.com/in/katrin-kleemann-03823b133/)
+
+#### Languages and tools:
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="45"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="40"></code>
+
 
 <!--
 **KatKlee/KatKlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
