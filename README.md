@@ -10,10 +10,10 @@ in training
 I’m currently learning javascript and react.
   
   
-**Languages & Tools**  
+**Languages and Tools**  
 html5  
 css3  
-scss / sass  
+scss  
 javascript  
 react  
 heroku  
