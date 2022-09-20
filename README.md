@@ -10,7 +10,7 @@ in training
 I’m currently learning javascript and react.
   
   
-**Languages & Tools:**  
+**Languages & Tools**  
 html5  
 css3  
 scss / sass  
