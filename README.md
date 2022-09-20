@@ -21,4 +21,4 @@ figma
 vscode  
 <br>
   
-*Connect with me via [LinkedIn](https://www.linkedin.com/in/katrin-kleemann-03823b133/)*
+*Connect with me via [LinkedIn](https://www.linkedin.com/in/katrin-kleemann/)*
