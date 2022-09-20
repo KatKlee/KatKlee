@@ -1,17 +1,21 @@
-Hi there, I am Katrin a full stack developer in training
-===
-
+:wave:</br>  
+Hi there, I am Katrin  
+a full stack developer  
+in training   
+=== 
+<br>  
+  
 I’m currently learning Javascript and React.
-
-
-**Languages and tools:**\
-HTML5\
-CSS3\
-SCSS/SASS\
-Javascript\
-react\
-heroku\
-Figma\
+  
+  
+**Languages and tools:**  
+HTML5  
+CSS3  
+SCSS / SASS  
+Javascript  
+react  
+heroku  
+Figma  
 VSCode
 
 *Connect with me via [LinkedIn](https://www.linkedin.com/in/katrin-kleemann-03823b133/)*
