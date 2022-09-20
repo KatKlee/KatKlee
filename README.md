@@ -5,19 +5,20 @@ in training
 === 
 <br>  
   
-I’m currently learning Javascript and React.
+I’m currently learning javascript and react.
   
   
-**Languages and tools:**  
-HTML5  
-CSS3  
-SCSS / SASS  
-Javascript  
+**Languages & Tools:**  
+html5  
+css3  
+scss / sass  
+javascript  
 react  
 heroku  
-Figma  
-VSCode
-
+figma  
+vscode  
+<br>
+  
 *Connect with me via [LinkedIn](https://www.linkedin.com/in/katrin-kleemann-03823b133/)*
 
 
