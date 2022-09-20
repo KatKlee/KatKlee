@@ -2,7 +2,7 @@
   
 :wave:</br>  
 Hi, I am Katrin  
-full stack developer  
+Full Stack Developer  
 in training   
 === 
 <br>  
@@ -21,4 +21,4 @@ figma
 vscode  
 <br>
   
-*Connect with me via [LinkedIn](https://www.linkedin.com/in/katrin-kleemann/)*
+*Learn more about me and connect via [LinkedIn](https://www.linkedin.com/in/katrin-kleemann/)*
