@@ -16,6 +16,7 @@ css3
 scss  
 javascript  
 react  
+node.js  
 heroku  
 figma  
 vscode  
