@@ -14,8 +14,8 @@ I’m currently learning javascript and react.
 html5  
 css3  
 scss  
-javascript
-express
+javascript  
+express  
 react  
 node.js  
 heroku deployment  
