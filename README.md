@@ -2,8 +2,8 @@
   
 :wave:</br>  
 Hi, I am Katrin  
-Full Stack Developer  
-in training   
+Junior Full Stack Developer  
+with a graphic design background   
 === 
 <br>  
   
