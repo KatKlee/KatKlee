@@ -18,6 +18,7 @@ javascript
 express  
 react  
 node.js  
+git/Github  
 heroku deployment  
 mongodb  
 figma  
