@@ -14,13 +14,13 @@ I’m currently learning javascript and react.
 html5  
 css3  
 scss  
-javascript  
-express  
+javascript    
 react  
+express.js  
 node.js  
-git/github  
-heroku deployment  
 mongodb  
+git/github  
+heroku deployment    
 figma  
 vscode  
 <br>
