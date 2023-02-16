@@ -3,7 +3,7 @@
 :wave:</br>  
 Hi, I am Katrin  
 junior frontend developer with  
-a graphic design background   
+a background as graphic designer   
 === 
 <br>  
   
