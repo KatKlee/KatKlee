@@ -3,12 +3,11 @@
 :wave:</br>  
 Hi, I am Katrin  
 a junior frontend developer with  
-basic knowledge and an interest in backend   
-with a graphic design background   
+a graphic design background   
 === 
 <br>  
   
-I’m currently learning javascript and react.
+I’m currently learning javascript and react and like the backend too.
   
   
 **Languages and Tools**  
