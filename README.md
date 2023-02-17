@@ -21,8 +21,10 @@ node.js
 mongodb  
 git/github  
 heroku deployment    
-figma  
 vscode  
+figma  
+trello  
+miro  
 <br>
   
 *Learn more about me and connect via [LinkedIn](https://www.linkedin.com/in/katrin-kleemann/)*
