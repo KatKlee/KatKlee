@@ -7,7 +7,7 @@ a background as graphic designer
 === 
 <br>  
   
-I’m currently learning javascript and react and like the backend too.
+I’m currently learning javascript and react.
   
   
 **Languages and Tools**  
